@@ -1,0 +1,18 @@
+{
+    "author": "Jeswin Kumar <jeswinpk@agilehead.com>",
+    "name": "fora-router",
+    "version": "0.9.0",
+    "description": "Router for the Fora project.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jeswin/fora-router.git"
+    },
+    "main": "lib",
+    "dependencies": {
+        "path-to-regexp": "*"
+    },
+    "devDependencies": {},
+    "engines": { "node": ">= 0.11.9" },
+    "keywords": ["serialization"],
+    "license" : "GPL-3.0+"
+}
