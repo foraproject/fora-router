@@ -1,13 +1,13 @@
 {
     "author": "Jeswin Kumar <jeswinpk@agilehead.com>",
     "name": "fora-router",
-    "version": "0.9.1",
+    "version": "0.9.2",
     "description": "Router for the Fora project.",
     "repository": {
         "type": "git",
         "url": "https://github.com/jeswin/fora-router.git"
     },
-    "main": "lib",
+    "main": "lib/fora-router",
     "dependencies": {
         "path-to-regexp": "*",
         "fora-request": "*"
