@@ -1,8 +1,8 @@
 {
     "author": "Jeswin Kumar <jeswinpk@agilehead.com>",
     "name": "fora-router",
-    "version": "0.9.30",
-    "description": "Router for the Fora project.",
+    "version": "1.0.0",
+    "description": "Isomorphic Router with a generator based API.",
     "repository": {
         "type": "git",
         "url": "https://github.com/jeswin/fora-router.git"
